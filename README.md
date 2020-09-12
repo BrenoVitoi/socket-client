@@ -1,5 +1,6 @@
 # socket-client
-Labs-Pro Socket client Digital Innovation One
+Labs-Pro ministradop pela Digital Innovation One
+Projeto: Socket client - Chat de Bate Papo
 Prof: Celso Henrique
 
 
