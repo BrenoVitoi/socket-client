@@ -1,2 +1,5 @@
 # socket-client
-Socket client for DIO lesson
+Labs-Pro Socket client Digital Innovation One
+Prof: Celso Henrique
+
+
